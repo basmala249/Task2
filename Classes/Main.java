@@ -29,6 +29,8 @@ public class Main {
          for(Book book : OutDatedBooks){
              book.showContent();
          }
+
+         System.out.println("Show Content Of Inventory After Removing OutDatedBooks.");
          
          inv.showBooks();
 
