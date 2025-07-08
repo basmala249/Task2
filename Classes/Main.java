@@ -43,6 +43,7 @@ public class Main {
          cart1.addBook("134-24" , 2 , cusm1.getEmail() , cusm1.getAddress());
          cart1.addBook("120-19" , 1 , cusm1.getEmail() , cusm1.getAddress() );
          cart1.addBook("122-25" ,1 , cusm1.getEmail(),cusm1.getAddress() );
+         cart1.addBook("124-20" , 2 , cusm1.getEmail() , cusm1.getAddress());
 
          Integer val = Checkout(cart1, cusm1);
          System.out.println("Paid Ammount : " + val);
