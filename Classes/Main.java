@@ -25,6 +25,10 @@ public class Main {
          System.out.println("********* lets Remove *********");
 
          List <Book> OutDatedBooks = inv.remove(7);
+
+         for(Book book : OutDatedBooks){
+             book.showContent();
+         }
          
          inv.showBooks();
 
