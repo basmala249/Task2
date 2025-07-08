@@ -11,3 +11,9 @@
 
 ## Remove Book Test 
 
+![Removetest](https://github.com/user-attachments/assets/01656527-089e-451c-9bcd-1b1a2d3e0e3c)
+
+
+##  Output For Remove OutDated Book Test 
+
+![OutputRemoveTest](https://github.com/user-attachments/assets/b5e881fb-1ed7-40a1-a638-e10828bc6578)
